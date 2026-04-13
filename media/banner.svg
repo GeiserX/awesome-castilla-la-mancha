@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="150" cy="180" rx="200" ry="120" fill="#8B0000" opacity="0.15" filter="url(#b1)"/>
+    <ellipse cx="650" cy="20" rx="200" ry="120" fill="#FFFFFF" opacity="0.08" filter="url(#b1)"/>
+    <rect width="800" height="2" fill="#8B0000" opacity="0.6"/>
+    <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="34" fill="#fff" font-weight="700" letter-spacing="1">awesome-castilla-la-mancha</text>
+    <rect x="250" y="86" width="300" height="2" rx="1" fill="#8B0000" opacity="0.5"/>
+    <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA CASTILLA-LA MANCHA</text>
+    <!-- 5 windmills representing the 5 provinces -->
+    <g fill="#FFFFFF" opacity="0.4" transform="translate(400,160)">
+      <g transform="translate(-60,0)"><circle cx="0" cy="-4" r="3"/><line x1="0" y1="-4" x2="0" y2="-12" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="-6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="4" y2="2" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><rect x="-2" y="-2" width="4" height="10" rx="1"/></g>
+      <g transform="translate(-30,0)"><circle cx="0" cy="-4" r="3"/><line x1="0" y1="-4" x2="0" y2="-12" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="-6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="4" y2="2" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><rect x="-2" y="-2" width="4" height="10" rx="1"/></g>
+      <g transform="translate(0,0)"><circle cx="0" cy="-4" r="3"/><line x1="0" y1="-4" x2="0" y2="-12" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="-6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="4" y2="2" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><rect x="-2" y="-2" width="4" height="10" rx="1"/></g>
+      <g transform="translate(30,0)"><circle cx="0" cy="-4" r="3"/><line x1="0" y1="-4" x2="0" y2="-12" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="-6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="4" y2="2" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><rect x="-2" y="-2" width="4" height="10" rx="1"/></g>
+      <g transform="translate(60,0)"><circle cx="0" cy="-4" r="3"/><line x1="0" y1="-4" x2="0" y2="-12" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="-6" y2="-9" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><line x1="0" y1="-4" x2="4" y2="2" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/><rect x="-2" y="-2" width="4" height="10" rx="1"/></g>
+    </g>
+  </g>
+</svg>
