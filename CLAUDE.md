@@ -1,4 +1,4 @@
-# AGENTS.md — awesome-castilla-la-mancha
+# CLAUDE.md — awesome-castilla-la-mancha
 
 ## Propósito
 
