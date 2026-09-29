@@ -20,3 +20,8 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 - [NAVSIM](https://github.com/I3A-NavSys/navsim) - Herramienta genérica de simulación de conducción autónoma, no específica de CLM.
 - [QTCC](https://github.com/GrupoAlarcos/QTCC) - Herramienta genérica de compilación de circuitos cuánticos, no específica de CLM.
 - [U-TRAFMAN](https://github.com/I3A-NavSys/utrafman_sim) - Herramienta genérica de gestión de tráfico de drones, no específica de CLM.
+
+## Repos inexistentes o renombrados
+
+- `carmenbelenm/olsa` - Observatorio Local de Sostenibilidad de Albacete desarrollado por la UCLM y el Ayuntamiento de Albacete. Repo eliminado o privado (GitHub devuelve 404).
+- `dtabuyodesigner/bolsa-interinos-clm` - Aplicación web para consultar posiciones en bolsa de interinos docentes de Castilla-La Mancha. Repo eliminado o privado (GitHub devuelve 404).
