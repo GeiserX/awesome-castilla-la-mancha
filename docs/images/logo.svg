@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="621 47 130 130" width="130" height="130" role="img" aria-label="Awesome Castilla-La Mancha">
+  <!-- The Alcázar of Toledo from banner.svg: the four-tower block at the right of
+       the skyline (the two groups under transform="translate(14,0)"), same
+       elements, gradients and colours, placed in their untranslated banner
+       coordinates. Changed: the two 1-unit finials on the corner towers are
+       2 units wide so they survive at header size, and the gradient ids carry
+       the aw- prefix. The rock, river and sky around it are left out. -->
+  <defs>
+    <linearGradient id="aw-stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c7995c"/><stop offset="1" stop-color="#6e4f30"/>
+    </linearGradient>
+    <linearGradient id="aw-stoneFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a6a45"/><stop offset="1" stop-color="#4a3522"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="648" y="104" width="12" height="16" fill="url(#aw-stoneFar)"/>
+    <rect x="712" y="104" width="12" height="16" fill="url(#aw-stoneFar)"/>
+    <path d="M647,104 L654,88 L661,104 Z" fill="#3b3f4a"/>
+    <path d="M711,104 L718,88 L725,104 Z" fill="#3b3f4a"/>
+    <rect x="630" y="116" width="112" height="42" fill="url(#aw-stone)"/>
+    <rect x="628" y="114" width="116" height="3" fill="#d8ad70"/>
+    <rect x="624" y="98" width="15" height="60" fill="url(#aw-stone)"/>
+    <rect x="733" y="98" width="15" height="60" fill="url(#aw-stone)"/>
+    <rect x="623" y="96" width="17" height="3" fill="#d8ad70"/>
+    <rect x="732" y="96" width="17" height="3" fill="#d8ad70"/>
+    <path d="M623,96 L631.5,72 L640,96 Z" fill="#4a505c"/>
+    <path d="M732,96 L740.5,72 L749,96 Z" fill="#4a505c"/>
+    <rect x="630.5" y="66" width="2" height="7" fill="#4a505c"/>
+    <rect x="739.5" y="66" width="2" height="7" fill="#4a505c"/>
+  </g>
+  <g>
+    <rect x="636" y="122" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="646" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="656" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="666" y="122" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="676" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="686" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="696" y="122" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="706" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="716" y="122" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="726" y="122" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="636" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="646" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="656" y="132" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="666" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="676" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="686" y="132" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="696" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="706" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="716" y="132" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="726" y="132" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="636" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="646" y="143" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="656" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="666" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="676" y="143" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="686" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="696" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="706" y="143" width="3" height="5" fill="#ffd98f" opacity="0.90"/>
+    <rect x="716" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="726" y="143" width="3" height="5" fill="#ffd98f" opacity="0.55"/>
+    <rect x="629" y="104" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="629" y="116" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="629" y="128" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="629" y="140" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="738" y="104" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="738" y="116" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="738" y="128" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+    <rect x="738" y="140" width="3" height="5" fill="#ffd98f" opacity="0.6"/>
+  </g>
+</svg>
