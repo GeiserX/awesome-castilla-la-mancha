@@ -27,13 +27,13 @@ hide:
 
     ---
 
-    De Administración y Gobierno Regional a Universidad e Investigación, pasando por JCCM, UCLM, Toledo, Albacete. El índice lateral sigue la categoría que estás leyendo.
+    De Administración y Gobierno Regional a Universidad e Investigación, pasando por Tomelloso, UCLM, Toledo, Albacete. El índice lateral sigue la categoría que estás leyendo.
 
--   :material-magnify: **[Buscar un proyecto](https://geiserx.github.io/awesome-castilla-la-mancha/?q=JCCM)**
+-   :material-magnify: **[Buscar un proyecto](https://geiserx.github.io/awesome-castilla-la-mancha/?q=Tomelloso)**
 
     ---
 
-    Pulsa `/` y escribe lo que necesitas: JCCM, UCLM, Toledo, Albacete. La búsqueda cubre el nombre y la descripción de todas las entradas.
+    Pulsa `/` y escribe lo que necesitas: Tomelloso, UCLM, Toledo, Albacete. La búsqueda cubre el nombre y la descripción de todas las entradas.
 
 -   :material-plus-box-outline: **[Proponer un proyecto](https://github.com/GeiserX/awesome-castilla-la-mancha/issues/new?template=anadir-proyecto.md)**
 
